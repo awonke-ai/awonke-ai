@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big scale projects 
 - 😄 Pronouns: aspiring software developer
 - ⚡ Fun fact: the whole reason i got into software devlopment was because i would see videos of people creating Uis and i'd see lines of code on the side,
-wasnt even sure i had enrolled for the right thing, turns out did. haha
+wasnt even sure i had enrolled for the right thing, turns out i did. haha
 
 <!---
 awonke-ai/awonke-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
