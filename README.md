@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awonke-ai
 - 👀 I’m interested in open source cross platform projects 
-- 🌱 I’m currently learning flutterflow and api integration 
+- 🌱 I’m currently a full stack react developer 
 - 💞️ I’m looking to collaborate on big scale projects 
 - 😄 Pronouns: aspiring software developer
 
